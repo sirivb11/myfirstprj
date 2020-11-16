@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World from webhooks working</h2>
+<h2>Hello World from webhooks 2.0 working</h2>
 </body>
 </html>
